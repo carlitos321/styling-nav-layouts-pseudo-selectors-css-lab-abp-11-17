@@ -73,6 +73,6 @@ a#header {
   text-decoration: none;
 }
 
-#header a:hover {
+a:hover#header {
   text-decoration: underline;
 }
