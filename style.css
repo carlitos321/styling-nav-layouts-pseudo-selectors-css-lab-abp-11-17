@@ -69,6 +69,10 @@ footer{
   color: #CCC;
 }
 
+#header a {
+  text-decoration: none;
+}
+
 #header a:hover {
   text-decoration: underline;
 }
